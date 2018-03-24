@@ -24,7 +24,7 @@ nx.draw(g, pos=nx.spring_layout(g), cmap=plt.get_cmap('Pastel2'), with_labels=Tr
 ```
 
 ## Sample output 1
-![Sample 1](https://github.com/faisalnsour/stochastic-block-model/blob/test-branch/sbm-sample1.png)
+![Sample 1](https://github.com/faisalnsour/stochastic-block-model/blob/master/sbm-sample1.png)
 
 ## Sample output 2
-![Sample 2](https://github.com/faisalnsour/stochastic-block-model/blob/test-branch/sbm-sample2.png)
+![Sample 2](https://github.com/faisalnsour/stochastic-block-model/blob/master/sbm-sample2.png)
